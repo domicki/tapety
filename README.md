@@ -1,2 +1,2 @@
-# tapety
+# Tapety
 tapety do pobrania!
